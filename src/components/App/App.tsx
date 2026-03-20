@@ -3,7 +3,7 @@ import { useState } from 'react'
 import './App.module.css'
 
 
-import type { Votes, VoteType } from "../types/votes";
+import type { Votes, VoteType } from "../../types/votes";
 
 import CafeInfo from "../CafeInfo/CafeInfo";
 import VoteOptions from "../VoteOptions/VoteOptions";
